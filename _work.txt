@@ -1,3 +1,10 @@
 Latest Tech Stack  & usecases
     => their working
     => Do project for understanding
+
+Needed to practice designing
+    => Freelancing project first 
+
+Future if really needed
+    => Open source contribution second if ever
+    => Hackathon 
