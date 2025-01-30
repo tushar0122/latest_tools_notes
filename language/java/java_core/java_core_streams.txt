@@ -23,3 +23,14 @@ Streams Benefits
     => Can be parallel
     => Piplelining of functions
     => Laziness
+
+map 
+    => transform
+    => Returns same structure 
+
+forEach
+    => process 
+
+flatMapToInt 
+    => transform and flatten
+
