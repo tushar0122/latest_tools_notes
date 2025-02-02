@@ -1,3 +1,0 @@
-CTE 
-    => A CTE is a temporary result set defined within a query. It improves query readability and can be referenced multiple times.
-

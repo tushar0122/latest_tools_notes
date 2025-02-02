@@ -1,5 +1,0 @@
-Examples
-    => PostgreSQL
-    => Oracle
-    => MySQL 
-    => Amazon RDS

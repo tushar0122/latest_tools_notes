@@ -1,3 +1,0 @@
-Interface 
-    => Interface supports multiple inheritance 
-    => One interface can inherit multiple interafce

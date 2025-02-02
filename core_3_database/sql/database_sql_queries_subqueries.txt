@@ -1,3 +1,0 @@
-SubQuery 
-    => A subquery is a query nested within another query. It is often used in the WHERE clause to filter data based on the results of another query, making it easier to handle complex conditions.
-

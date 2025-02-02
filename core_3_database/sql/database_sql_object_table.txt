@@ -1,2 +1,0 @@
-Table 
-    => A table is a structured collection of related data organized into rows and columns. Columns define the type of data stored, while rows contain individual records.

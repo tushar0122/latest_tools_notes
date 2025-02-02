@@ -1,2 +1,0 @@
-Trigger
-    => A trigger in SQL is a database object that automatically executes a specified action when certain events (like INSERT, UPDATE, or DELETE) occur on a table. Triggers can enforce business rules, maintain audit trails, and automate processes.

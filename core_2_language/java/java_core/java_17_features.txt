@@ -1,4 +1,0 @@
-=> var 
-=> switch case 
-=> ZGC Garbage Collector 
-=> G1GC Garbage Collector 
